@@ -1,20 +1,30 @@
 # My Resume App by Adedayo Agboola
 
-Description: An Application showing my resume
+DESCRIPTION: 
+An Application showing my resume
 
-Language: Flutter
 
-Libraries:
+LANGUAGE: 
+Flutter
+
+
+LIBRARIES:
 Cupertino Icons class for iOS style icons
 
-APK Link:
 
-Appetizer Link: https://appetize.io/app/j44242zyibi5eaopahvblo57rq
+APK LINK: 
+https://drive.google.com/file/d/18j6Wbw_8X_0DeQ-gfQcSiGc89iB1IBga/view?usp=share_link
 
-Challenges:
 
+APPETIZER LINK: 
+https://appetize.io/app/j44242zyibi5eaopahvblo57rq
+
+
+CHALLENGES:
 1. getting my images to ddiplay well
 2. getting the transfrom code and the scroll to work
 3. Gradle issues - Gradle showed me pepper sir.
 
-Features: Ability to download the resume as a pdf.
+
+FEATURES: 
+Ability to download the resume as a pdf.
