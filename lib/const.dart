@@ -22,7 +22,7 @@ const cEducationTopic = 'Educational Background';
 const cEducationFeature =
     "MSc. Computer Science - University of Ibadan\n (2022 - 2023)\n\n" +
         "Pgd. Computer Science - University of Ilorin\n (2018 - 2019)\n\n" +
-        "BSc. in Zoology - OAU, Ile-Ife \n (2003 - 2008\n";
+        "BSc. in Zoology - OAU, Ile-Ife \n (2003 - 2008)\n";
 
 const cEducationLabel = 'Education';
 const cEducationPicture = 'assets/images/book.png';
